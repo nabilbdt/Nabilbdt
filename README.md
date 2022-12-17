@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Nabilbdt
+- 👀 I’m interested in web/desktop développement 
+- 🌱 I’m currently learning php
+- 💞️ I’m looking to collaborate on google
+- 📫 nabilbayad969@gmail.com
