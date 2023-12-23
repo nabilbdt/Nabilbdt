@@ -15,9 +15,9 @@ As a software developer, I'm proficient in:
 
 In the realm of web development, I excel in:
 
-- **Frontend**: HTML, CSS, Bootstrap, JavaScript
-- **Backend**: PHP
-
+- **Frontend**: HTML, CSS, Bootstrap, JavaScript, Reactjs
+- **Backend**: PHP, EXPRESSjs, 
+- **Databases**: MySQL, MONGOdb
 
 Feel free to explore and collaborate with me on any of these projects. Your feedback and ideas are always welcome.
 
