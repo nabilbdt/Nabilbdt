@@ -24,7 +24,7 @@ Feel free to explore and collaborate with me on any of these projects. Your feed
 ## Connect with Me
 
 - LinkedIn: www.linkedin.com/in/nabilbayad
-- Email: nabilbayad969@gmail.com
+- Email: nabil.elbayad.dev@gmail.com
 
 I'm open to new opportunities, collaborations, and discussions, so please don't hesitate to reach out if you'd like to work together or explore exciting projects.
 
